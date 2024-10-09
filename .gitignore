@@ -1,3 +1,9 @@
-# created by virtualenv automatically
-.venv/Lib
-!/locators.py
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+.env/
+drivers/
+.venv/
+
