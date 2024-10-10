@@ -139,6 +139,13 @@ venv.bak/
 
 # mkdocs documentation
 /site
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+.env/
+drivers/
+.venv/
 
 # mypy
 .mypy_cache/
